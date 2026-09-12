@@ -1,2 +1,2 @@
-# split-bil
+# splitbill
 Group of members' co-purchase/account sharing service, total expenses accounting, automatic debt settlement between members.
